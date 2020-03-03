@@ -30,3 +30,7 @@ From: ubuntu:18.04
 	mkdir -p hello
 %runscript
 	Rscript deseq2.R
+
+%labels
+	Author Vijay
+	Email vjbaskar@gmail.com
